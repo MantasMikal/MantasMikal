@@ -1,2 +1,5 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/62182f60-e047-4560-acb5-d848d0b06ce1.svg)](https://wakatime.com/@62182f60-e047-4560-acb5-d848d0b06ce1)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mantasmikal&show_icons=true&theme=onedark&count_private=true&hide_title=true&border_color=2f373d)
+
+![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mantasmikal&range=all_time&hide_title=true&langs_count=8&theme=onedark&border_color=2f373d)
+
