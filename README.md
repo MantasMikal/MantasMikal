@@ -3,19 +3,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2019 - To: 05 September 2024
+From: 13 November 2019 - To: 06 September 2024
 
-Total Time: 6,070 hrs 17 mins
+Total Time: 6,073 hrs 28 mins
 
-TypeScript        2,630 hrs 20 mins██████████▓░░░░░░░░░░░░░░   42.70 %
-JavaScript        1,102 hrs 7 mins████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+TypeScript        2,633 hrs 12 mins██████████▓░░░░░░░░░░░░░░   42.72 %
+JavaScript        1,102 hrs 14 mins████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
 JSX               826 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-SCSS              533 hrs 49 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Stylus            324 hrs 21 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-JSON              227 hrs 3 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Jade              142 hrs 53 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-CSS               101 hrs 7 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Other             89 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+SCSS              533 hrs 49 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Stylus            324 hrs 21 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+JSON              227 hrs 4 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Jade              143 hrs 1 min   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+CSS               101 hrs 9 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Other             90 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
