@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2019 - To: 01 January 2025
+From: 13 November 2019 - To: 02 January 2025
 
-Total Time: 6,410 hrs 46 mins
+Total Time: 6,413 hrs 12 mins
 
-TypeScript        2,916 hrs 32 mins███████████▒░░░░░░░░░░░░░   44.84 %
-JavaScript        1,127 hrs 9 mins████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+TypeScript        2,918 hrs 2 mins███████████▒░░░░░░░░░░░░░   44.84 %
+JavaScript        1,127 hrs 17 mins████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
 JSX               826 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-SCSS              537 hrs 3 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+SCSS              537 hrs 3 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 Stylus            324 hrs 53 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 Jade              144 hrs 3 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-CSS               107 hrs 10 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+CSS               107 hrs 37 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 Other             94 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
