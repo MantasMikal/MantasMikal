@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2019 - To: 05 January 2025
+From: 13 November 2019 - To: 06 January 2025
 
-Total Time: 6,413 hrs 12 mins
+Total Time: 6,413 hrs 33 mins
 
-TypeScript        2,918 hrs 2 mins███████████▒░░░░░░░░░░░░░   44.84 %
+TypeScript        2,918 hrs 18 mins███████████▒░░░░░░░░░░░░░   44.84 %
 JavaScript        1,127 hrs 17 mins████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
 JSX               826 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
 SCSS              537 hrs 3 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
