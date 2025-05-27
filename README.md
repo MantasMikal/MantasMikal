@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2019 - To: 24 May 2025
+From: 13 November 2019 - To: 25 May 2025
 
-Total Time: 7,053 hrs 35 mins
+Total Time: 7,056 hrs 27 mins
 
-TypeScript                3,479 hrs 54 mins████████████░░░░░░░░░░░░░   48.66 %
-JavaScript                1,156 hrs 33 mins████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+TypeScript                3,479 hrs 54 mins████████████░░░░░░░░░░░░░   48.64 %
+JavaScript                1,156 hrs 33 mins████░░░░░░░░░░░░░░░░░░░░░   16.16 %
 JSX                       826 hrs 16 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
 SCSS                      537 hrs 45 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
 Stylus                    324 hrs 56 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
